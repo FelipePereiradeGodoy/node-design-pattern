@@ -6,4 +6,6 @@ require('./creational/factory-method/factory-method');
 console.log();
 require('./creational/abstract-factory/abstract-factory');
 console.log();
+require('./creational/builder/builder');
+console.log();
 console.log('=================================================');
