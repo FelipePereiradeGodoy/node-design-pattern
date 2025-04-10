@@ -8,4 +8,6 @@ require('./creational/abstract-factory/abstract-factory');
 console.log();
 require('./creational/builder/builder');
 console.log();
+require('./creational/prototype/prototype');
+console.log();
 console.log('=================================================');
