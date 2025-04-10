@@ -1,0 +1,1 @@
+require('./creational/singleton/singleton');
