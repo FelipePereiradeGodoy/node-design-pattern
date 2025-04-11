@@ -26,4 +26,6 @@ require('./structural/proxy/proxy');
 console.log();
 require('./structural/bridge/bridge');
 console.log();
+require('./structural/flyweight/flyweight');
+console.log();
 console.log('=================================================');
