@@ -11,3 +11,9 @@ console.log();
 require('./creational/prototype/prototype');
 console.log();
 console.log('=================================================');
+
+console.log('============== Padrões Estrutural ==============');
+console.log();
+require('./structural/adapter/adapter');
+console.log();
+console.log('=================================================');
