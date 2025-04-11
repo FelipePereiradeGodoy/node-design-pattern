@@ -29,3 +29,10 @@ console.log();
 require('./structural/flyweight/flyweight');
 console.log();
 console.log('=================================================');
+
+
+console.log('============== Padrões Comportamentais ==============');
+console.log();
+require('./behavioral/chain-of-responsibility/chainOfResponsibility');
+console.log();
+console.log('=====================================================');
