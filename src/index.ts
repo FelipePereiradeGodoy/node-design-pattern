@@ -18,4 +18,6 @@ require('./structural/adapter/adapter');
 console.log();
 require('./structural/decorator/decorator');
 console.log();
+require('./structural/facade/facade');
+console.log();
 console.log('=================================================');
