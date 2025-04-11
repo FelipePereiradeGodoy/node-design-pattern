@@ -24,4 +24,6 @@ require('./structural/composite/composite');
 console.log();
 require('./structural/proxy/proxy');
 console.log();
+require('./structural/bridge/bridge');
+console.log();
 console.log('=================================================');
