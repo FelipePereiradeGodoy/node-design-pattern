@@ -20,4 +20,6 @@ require('./structural/decorator/decorator');
 console.log();
 require('./structural/facade/facade');
 console.log();
+require('./structural/composite/composite');
+console.log();
 console.log('=================================================');
