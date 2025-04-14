@@ -57,12 +57,5 @@ Este repositório tem como objetivo documentar os principais **Design Patterns**
 
 📁 Cada padrão terá sua própria pasta com:
 - Um exemplo simples de implementação;
-- Comentários explicativos;
-- Situações práticas onde pode ser aplicado.
 
 ---
-
-## 📬 Contribua!
-
-Pull requests são bem-vindos! Se tiver exemplos, correções ou melhorias, sinta-se à vontade para colaborar. 🚀
-
