@@ -51,4 +51,6 @@ require('./behavioral/template-method/template-method');
 console.log();
 require('./behavioral/visitor/visitor');
 console.log();
+require('./behavioral/memento/memento');
+console.log();
 console.log('=====================================================');
