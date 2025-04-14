@@ -35,4 +35,6 @@ console.log('============== Padrões Comportamentais ==============');
 console.log();
 require('./behavioral/chain-of-responsibility/chainOfResponsibility');
 console.log();
+require('./behavioral/command/command');
+console.log();
 console.log('=====================================================');
