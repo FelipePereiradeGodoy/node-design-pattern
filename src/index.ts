@@ -41,4 +41,6 @@ require('./behavioral/iterator/iterator');
 console.log();
 require('./behavioral/mediator/mediator');
 console.log();
+require('./behavioral/observer/observer');
+console.log();
 console.log('=====================================================');
