@@ -45,4 +45,6 @@ require('./behavioral/observer/observer');
 console.log();
 require('./behavioral/state/state');
 console.log();
+require('./behavioral/strategy/strategy');
+console.log();
 console.log('=====================================================');
