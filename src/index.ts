@@ -39,4 +39,6 @@ require('./behavioral/command/command');
 console.log();
 require('./behavioral/iterator/iterator');
 console.log();
+require('./behavioral/mediator/mediator');
+console.log();
 console.log('=====================================================');
