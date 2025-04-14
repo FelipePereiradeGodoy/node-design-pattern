@@ -43,4 +43,6 @@ require('./behavioral/mediator/mediator');
 console.log();
 require('./behavioral/observer/observer');
 console.log();
+require('./behavioral/state/state');
+console.log();
 console.log('=====================================================');
