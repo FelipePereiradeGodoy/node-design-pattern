@@ -37,4 +37,6 @@ require('./behavioral/chain-of-responsibility/chainOfResponsibility');
 console.log();
 require('./behavioral/command/command');
 console.log();
+require('./behavioral/iterator/iterator');
+console.log();
 console.log('=====================================================');
