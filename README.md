@@ -53,7 +53,7 @@ Este repositório tem como objetivo documentar os principais **Design Patterns**
 
 ---
 
-## 🛠️ Objetivo
+## 🛠️ Design
 
 📁 Cada padrão terá sua própria pasta com:
 - Um exemplo simples de implementação;
