@@ -46,10 +46,10 @@ Este repositório tem como objetivo documentar os principais **Design Patterns**
 | **State**            | Permite que um objeto **mude seu comportamento** quando seu estado interno muda. |
 | **Template Method**  | Define o **esqueleto de um algoritmo** na superclasse, permitindo que subclasses alterem partes específicas. |
 | **Mediator**         | Reduz o acoplamento entre objetos, fazendo com que se comuniquem por meio de um **objeto central** (mediador). |
+| **Memento**          | Permite capturar e armazenar o estado interno de um objeto sem violar o encapsulamento, para que possa ser restaurado posteriormente. |
 | **Chain of Responsibility** | Permite passar uma solicitação por uma **cadeia de manipuladores**, onde cada um pode tratar ou passar adiante. |
 | **Iterator**         | Fornece um meio de **acessar os elementos** de um objeto agregado sequencialmente, sem expor sua estrutura. |
 | **Visitor**          | Permite **adicionar novas operações** a objetos sem alterar suas classes. Ideal para estruturas de dados complexas. |
-| **Interpreter**      | Fornece uma maneira de avaliar linguagens ou expressões usando um conjunto de regras gramaticais. |
 
 ---
 
