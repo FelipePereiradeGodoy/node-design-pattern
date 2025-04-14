@@ -47,4 +47,6 @@ require('./behavioral/state/state');
 console.log();
 require('./behavioral/strategy/strategy');
 console.log();
+require('./behavioral/template-method/template-method');
+console.log();
 console.log('=====================================================');
