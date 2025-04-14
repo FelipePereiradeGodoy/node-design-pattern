@@ -49,4 +49,6 @@ require('./behavioral/strategy/strategy');
 console.log();
 require('./behavioral/template-method/template-method');
 console.log();
+require('./behavioral/visitor/visitor');
+console.log();
 console.log('=====================================================');
